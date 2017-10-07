@@ -20,11 +20,6 @@
        <Polygon>
               <color>ffff0000</color>
               <width>4</width>
-              <strokeColor> "#ff0088"</strokeColor>
-              <strokeOpacity> 0 </strokeOpacity>
-              <strokeWeight> 0 </strokeWeight>
-              <fillColor> "#ff0088" </fillColor>
-              <fillOpacity> 0 </fillOpacity>
        </Polygon>
 </Style>
 
