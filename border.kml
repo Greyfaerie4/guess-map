@@ -6,8 +6,8 @@
        Just leave the comments and credits when doing so.
 -->
   <Document>
-    <name>Chicago Transit Map</name>
-    <description>Chicago Transit Authority train lines</description>
+    <name>Country Borders</name>
+    <description>World Country Polygons</description>
 
     <Style id="blueLine">
       <LineStyle>
