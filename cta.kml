@@ -14,8 +14,9 @@
         <color>ffff0000</color>
         <width>4</width>
       </LineStyle>
-    </Style>
+         </Style>
 
+         
     <Placemark>
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
