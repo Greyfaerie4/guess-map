@@ -10,17 +10,17 @@
 <description>World Country Polygons</description>
 
 <Style id="blueLine">
-       <Polygon>
+       <LineString>
               <color>ffff0000</color>
               <width>4</width>
               <fill>ffff0000</fill>
-       </Polygon>
+       </LineString>
 </Style>
 
 <Placemark>
        <name>Blue Line</name>
        <styleUrl>#blueLine</styleUrl>
-       <Polygon>
+       <LineString>
        <altitudeMode>relative</altitudeMode>
        <coordinates>
               142.512758,-10.866943, 0
@@ -233,7 +233,7 @@
               142.141939,-10.956667, 0
               142.512758,-10.866943, 0
         </coordinates>
-       </Polygon>
+       </LineString>
 </Placemark>
 
 </Document>
