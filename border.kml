@@ -5,28 +5,22 @@
        Feel free to use this file for your own purposes.
        Just leave the comments and credits when doing so.
 -->
-  <Document>
-    <name>Country Borders</name>
-    <description>World Country Polygons</description>
+<Document>
+<name>Country Borders</name>
+<description>World Country Polygons</description>
 
-    <Style id="blueLine">
-      <LineStyle>
-        <color>ffff0000</color>
-        <width>4</width>
-      </LineStyle>
-         </Style>
-         
-<Style id="Australia">
+<Style id="blueLine">
        <Polygon>
               <color>ffff0000</color>
               <width>4</width>
+              <fill>ffff0000</fill>
        </Polygon>
 </Style>
 
 <Placemark>
        <name>Blue Line</name>
        <styleUrl>#blueLine</styleUrl>
-       <LineString>
+       <Polygon>
        <altitudeMode>relative</altitudeMode>
        <coordinates>
               -87.67283499240875,42.019110918045044,0
@@ -121,8 +115,8 @@
               -87.625870,41.736142,0
               -87.625259,41.721877,0
         </coordinates>
-       </LineString>
+       </Polygon>
 </Placemark>
 
-  </Document>
+</Document>
 </kml>
