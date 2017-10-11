@@ -1706,8 +1706,7 @@
 					<value>Cocos (Keeling) Islands</value>
 				</Data>
 			</ExtendedData><MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>96.914154,-12.19805 96.90248,-12.2 96.914703,-12.15194 96.914154,-12.19805</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>96.862762,-12.19611 96.819443,-12.178057 96.826385,-12.12833 96.862762,-12.19611</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry></Placemark>
-
-		<Placemark>
+				<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
 <b>Name:</b> Bouvet Island
@@ -1718,6 +1717,7 @@
 					<value>Bouvet Island</value>
 				</Data>
 			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>3.361389,-54.462784 3.366944,-54.399727 3.483611,-54.40223 3.361389,-54.462784</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		
 		<Placemark>
 			<snippet></snippet>
 			<description><![CDATA[<div class="googft-info-window" style="font-family:sans-serif">
